@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'spec'
+require 'rspec'
 require 'pg'
 require 'activerecord'
 $:.unshift((File.join(File.dirname(__FILE__), '..', 'lib')))
